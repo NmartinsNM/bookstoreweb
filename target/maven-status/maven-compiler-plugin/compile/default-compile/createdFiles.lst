@@ -1,0 +1,10 @@
+bookstoreweb\controller\UserLogoutServlet.class
+bookstoreweb\controller\BookServlet.class
+bookstoreweb\controller\AutorizaUserFilter.class
+bookstoreweb\model\bean\Book.class
+bookstoreweb\model\dao\UserDAO.class
+bookstoreweb\controller\UserLoginServlet.class
+connection\MySQLConnection.class
+bookstoreweb\controller\UserServlet.class
+bookstoreweb\model\bean\User.class
+bookstoreweb\model\dao\BookDAO.class
